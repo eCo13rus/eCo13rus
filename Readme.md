@@ -21,6 +21,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-💌 **Свяжитесь со мной:**  
+💌 **Как связаться со мной:**  
 - 📧 [Email: ilya.shirokov.9191@mail.ru](mailto:ilya.shirokov.9191@mail.ru)
 - 📱 [Telegram: @eCo13reg](https://t.me/eCo13reg)

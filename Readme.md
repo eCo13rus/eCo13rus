@@ -24,4 +24,3 @@
 💌 **Свяжитесь со мной:**  
 - 📧 [Email: ilya.shirokov.9191@mail.ru](mailto:ilya.shirokov.9191@mail.ru)
 - 📱 [Telegram: @eCo13reg](https://t.me/eCo13reg)
-

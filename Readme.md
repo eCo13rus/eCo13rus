@@ -8,7 +8,7 @@
 👀 **Мои проекты:**  
 - [Set of 5 console games "for the brain"](https://github.com/eCo13rus/php-project-lvl1)
 - [Difference Calculator](https://github.com/eCo13rus/php-project-48)
-- [Page Analyzer](https://php-project-9-production-84d8.up.railway.app/)
+- [Page Analyzer](https://github.com/eCo13rus/php-project-9)
 
 🔥 **Что меня мотивирует?**  
 Я живу кодом и вижу в каждой задаче не просто строки, а возможность сделать мир лучше. Моя страсть к разработке — это мой компас, который указывает путь к великим проектам.

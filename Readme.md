@@ -9,7 +9,7 @@
 - [Difference Calculator](https://github.com/eCo13rus/php-project-48)
 - [Page Analyzer](https://github.com/eCo13rus/php-project-9)
 - [Task Manager](https://github.com/eCo13rus/todoApp)
-- [neural_networks_bot](https://github.com/eCo13rus/neural_networks_bot)
+- [Neural_networks_bot](https://github.com/eCo13rus/neural_networks_bot)
 
 🛠 **Мой стек:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

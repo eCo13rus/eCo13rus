@@ -10,6 +10,7 @@
 - [Page Analyzer](https://github.com/eCo13rus/php-project-9)
 - [Task Manager](https://github.com/eCo13rus/todoApp)
 - [Neural_networks_bot](https://github.com/eCo13rus/neural_network_bot)
+- [Crypto-Monitor](https://github.com/eCo13rus/Crypto-Monitor)
 
 🛠 **Мой стек:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
